@@ -15,12 +15,12 @@ DTI klassides:
 
     Ekraani alaserva ilmus tööriistariba:
  ![tööriistariba](pildid/3.jpg)
-    1. **pliiats** - vaba käega kirjutamise vahend. Pikemal vajutamisel saad valida joone paksuse ja värvi.
-    2. **marker** - saad paksema joonega teksti markeerida (markeering on läbipaistev). Pikemal vajutamisel saad valida markeeringu laiuse ja värvi.
-    3. **valikutööriist** - saad juba tehtud märkmeid valida, liigutada ja muuta.
-    4. **kustutamine** - saad juba tehtud märkmeid kustutada.
-    5. **terve ekraani kustutamine** - kustutad ekraanilt kõik tehtud märkmed.
-    6. **ekraanipildi salvestamine** - saad salvestada parajasti ekraanil oleva pildi koos märkmetega.
+1. **pliiats** - vaba käega kirjutamise vahend. Pikemal vajutamisel saad valida joone paksuse ja värvi.
+2. **marker** - saad paksema joonega teksti markeerida (markeering on läbipaistev). Pikemal vajutamisel saad valida markeeringu laiuse ja värvi.
+3. **valikutööriist** - saad juba tehtud märkmeid valida, liigutada ja muuta.
+4. **kustutamine** - saad juba tehtud märkmeid kustutada.
+5. **terve ekraani kustutamine** - kustutad ekraanilt kõik tehtud märkmed.
+6. **ekraanipildi salvestamine** - saad salvestada parajasti ekraanil oleva pildi koos märkmetega.
 * Märkmete tegemise režiimist väljumiseks vali külgmenüüst uuesti märkmete tegemise rakendus (märka, et ikooni juures on nüüd väike punane rist)
 
 ## Ekraanipildi ja märkmete salvestamine mälupulgale läbi Download rakenduse
@@ -29,10 +29,10 @@ DTI klassides:
 ![alt text](pildid/4.jpg)
 * Avaneb ekraanipildi salvestamise tööriistariba
 ![alt text](pildid/5.jpg)
-    1.**Ekraaniosa valimise tööriist** - vaikimisi salvestatakse terve ekraan
-    2. **Valitud ekraaniosa saatmine tahvli rakendusele** - valitud ekraaniosa avatakse eraldi pildiosana valge tahvli rakenduses, kus saab teha lisamärkmeid ja muudatusi.
-    3. **Valitud ekraaniosa salvestamine andmekandjale** - valitud ekraaniosa saab salvestada ekraani sisemisele andmekandjale või mälupulgale.
-    4. **Ekraanipildi salvestamisest loobumine**
+1.**Ekraaniosa valimise tööriist** - vaikimisi salvestatakse terve ekraan
+2. **Valitud ekraaniosa saatmine tahvli rakendusele** - valitud ekraaniosa avatakse eraldi pildiosana valge tahvli rakenduses, kus saab teha lisamärkmeid ja muudatusi.
+3. **Valitud ekraaniosa salvestamine andmekandjale** - valitud ekraaniosa saab salvestada ekraani sisemisele andmekandjale või mälupulgale.
+4. **Ekraanipildi salvestamisest loobumine**
 
 * Kui valid **Valitud ekraaniosa salvestamine andmekandjale**, siis avaneb järgmine menüü
 ![alt text](pildid/menüü.jpg)
@@ -51,10 +51,10 @@ DTI klassides:
 ![alt text](pildid/4.jpg)
 * Avaneb ekraanipildi salvestamise tööriistariba
 ![alt text](pildid/5.jpg)
-    1. **Ekraaniosa valimise tööriist** - vaikimisi salvestatakse terve ekraan
-    2. **Valitud ekraaniosa saatmine tahvli rakendusele** - valitud ekraaniosa avatakse eraldi pildiosana valge tahvli rakenduses, kus saab teha lisamärkmeid ja muudatusi.
-    3. **Valitud ekraaniosa salvestamine andmekandjale** - valitud ekraaniosa saab salvestada ekraani sisemisele andmekandjale või mälupulgale.
-    4. **Ekraanipildi salvestamisest loobumine**
+1. **Ekraaniosa valimise tööriist** - vaikimisi salvestatakse terve ekraan 
+2. **Valitud ekraaniosa saatmine tahvli rakendusele** - valitud ekraaniosa avatakse eraldi pildiosana valge tahvli rakenduses, kus saab teha lisamärkmeid ja muudatusi.
+3. **Valitud ekraaniosa salvestamine andmekandjale** - valitud ekraaniosa saab salvestada ekraani sisemisele andmekandjale või mälupulgale.
+4. **Ekraanipildi salvestamisest loobumine**
 
 * Kui valid **Valitud ekraaniosa saatmine tahvli rakendusele**, siis avaneb tahvli rakendus, kus ekraanipilt on eraldi objektina. Enne salvestamist on mõistlik on muuta ekraanipildi suurus samaks tahvli suurusega.
 ![alt text](pildid/6jpg.jpg)
